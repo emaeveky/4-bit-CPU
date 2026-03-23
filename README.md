@@ -5,6 +5,7 @@ main circuit
 <img width="1696" height="1502" alt="image" src="https://github.com/user-attachments/assets/03efa050-b692-4490-a122-4a66e35d440b" />
 
 ALU
+
 <img width="670" height="507" alt="image" src="https://github.com/user-attachments/assets/1c5c1e9e-9a3e-4aa2-8561-fdb5b371bd0f" />
 
 REGISTER
